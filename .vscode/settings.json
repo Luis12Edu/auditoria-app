@@ -3,5 +3,7 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "snyk.advanced.organization": "2c3e5672-e005-4057-bc08-23a760c992b1",
+  "snyk.advanced.autoSelectOrganization": true
 }
